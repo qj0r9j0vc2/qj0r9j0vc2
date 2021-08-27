@@ -1,7 +1,7 @@
 # 백엔드 개발자가 되고 싶🐔
 ## [🍎 자기소개 노션  🌱](https://tangy-island-25d.notion.site/bc031366501e4bf2a11b0c250ead139b)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ahn_Jin_u&descAlignY=51&descAlign=49)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ahn_Jin_u&descAlignY=51&descAlign=49)
 
 <h1 align="center">「Hello 👋, I'm Son-Ji-won」</h1>
 <h3 align="center">⧼ We will become the best developer in the world ⧽</h3>

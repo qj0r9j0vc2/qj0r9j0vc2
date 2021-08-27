@@ -1,7 +1,7 @@
 # 백엔드 개발자가 되고 싶🐔
 ## [🍎 자기소개 노션  🌱](https://tangy-island-25d.notion.site/bc031366501e4bf2a11b0c250ead139b)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Kim_Buck_Gur&descAlignY=51&descAlign=49)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ahn_Jin_u&descAlignY=51&descAlign=49)
 
 <h1 align="center">「Hello 👋, I'm Son-Ji-won」</h1>
 <h3 align="center">⧼ We will become the best developer in the world ⧽</h3>
@@ -9,7 +9,7 @@
 <p align="center">
   <h3 align="center">✅✦#Social (*≧∀≦*)✦</h3>
   <p align="center"> 
-    <a href="https://github.com/kimbuckgur" target="_blank">
+    <a href="https://github.com/jinwoo794533" target="_blank">
       <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="50" height="50"/> 
     </a> 
     <a>

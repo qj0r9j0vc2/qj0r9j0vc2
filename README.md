@@ -3,23 +3,23 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ahn_Jin_u&descAlignY=51&descAlign=49)
 
-<h1 align="center">「Hello 👋, I'm Ahnjinu」</h1>
-<h3 align="center">⧼ I'll be developer! ⧽</h3>
+<h1 align="center">「Hello 👋, I'm AhnJinu」</h1>
+<h3 align="center">⧼ I'll be backend developer! ⧽</h3>
 
 <p align="center">
-  <h3 align="center">✅✦#Social (*≧∀≦*)✦</h3>
+  <h3 align="center">☀ SocialNetworks 🚗</h3>
   <p align="center"> 
     <a href="https://github.com/jinwoo794533" target="_blank">
       <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="50" height="50"/> 
     </a> 
-    <a>
-      <img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord" width="50" height="50" />
+    <a href="https://www.facebook.com/profile.php?id=100035352503933" target="_blank">
+     <img src="https://img.icons8.com/nolan/64/facebook.png" alt="Facebook" width="50" height="50" />
     </a>
   </p>
   <h3 align="center">✅✦#Technology (・ิω・ิ)✦</h3>
   <p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+    <a href="https://www.java.com/ko/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="c" width="50" height="50"/>
     </a> 
     <a href="https://www.python.org" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 

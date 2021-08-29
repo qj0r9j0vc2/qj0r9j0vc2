@@ -16,41 +16,38 @@
      <img src="https://img.icons8.com/nolan/64/facebook.png" alt="Facebook" width="50" height="50" />
     </a>
   </p>
-  <h3 align="center">✅✦#Technology (・ิω・ิ)✦</h3>
+  <h3 align="center">⚒ Technology 💎</h3>
   <p align="center">
-    <a href="https://www.java.com/ko/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="c" width="50" height="50"/>
+    <a href="https://spring.io/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="c" width="50" height="50"/>
     </a> 
     <a href="https://www.python.org" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
   </p>
-    <h3 align="center">✅✦#Tool (*≧▽≦)✦</h3>
+    <h3 align="center"> 🎉 Tool ❤️</h3>
     <p align="center">
        <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+        <img src="https://img.icons8.com/nolan/64/git.png" alt="git" width="40" height="40"/> 
        </a> 
        <a>
-         <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"  alt="vs-2019" width="50" height="50"/>
-       </a>
-       <a>
-         <img src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="vs-code" width="50" height="50"/>
+        <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="vs-2019" width="50" height="50"/>
        </a>
        <a>
          <img src="https://img.icons8.com/ios/150/000000/notion.png" alt="Notion" width="50" height="50"/>
        </a>
     </p>
+    <h3 align="center">🍇 Blog 📝</h3>
+    <p align="center">
+       <a href="https://jinu-secretspace.tistory.com/" target="_blank"> 
+        <img src="https://img.icons8.com/nolan/64/google-blog-search.png" alt="git" width="40" height="40"/> 
+       </a>
+    </p>
  </p>
- 
-[![jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwoo794533&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+ <div align="center">
 
+  "[![jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwoo794533&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
 <!--
 **jinwoo794533/jinwoo794533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

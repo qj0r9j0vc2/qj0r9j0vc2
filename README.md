@@ -34,11 +34,18 @@
          <img src="https://img.icons8.com/ios/150/000000/notion.png" alt="Notion" width="50" height="50"/>
        </a>
     </p>
-    <h3 align="center">🍇 Blog 📝</h3>
+    <h3 align="center">🍇 Else 📝</h3>
     <p align="center">
        <a href="https://jinu-secretspace.tistory.com/" target="_blank"> 
         <img src="https://img.icons8.com/nolan/64/google-blog-search.png" alt="git" width="40" height="40"/> 
        </a>
+    </p>
+      <h3 align="center">↓</h3>
+    <p align="center">
+  <img src="https://img.icons8.com/color/48/000000/notion--v2.png" alt="git" width="40" height="40"/> 
+     <a href="https://tangy-island-25d.notion.site/bc031366501e4bf2a11b0c250ead139b" target="_blank">
+        자기소개 페이지
+     </a>
     </p>
  </p>
  <div align="center">

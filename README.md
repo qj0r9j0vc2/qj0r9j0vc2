@@ -21,8 +21,6 @@
     <a href="https://spring.io/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="c" width="50" height="50"/>
     </a> 
-    <a href="https://www.python.org" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
   </p>
     <h3 align="center"> 🎉 Tool ❤️</h3>
     <p align="center">

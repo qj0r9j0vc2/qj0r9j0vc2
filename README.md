@@ -53,7 +53,7 @@
   [![jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwoo794533&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoo794533&layout=compact&theme=prussian&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoo794533&layout=compact&theme=omni&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
 <!--

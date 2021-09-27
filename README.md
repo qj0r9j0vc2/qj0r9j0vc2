@@ -50,8 +50,11 @@
  </p>
  <div align="center">
 
-  "[![jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwoo794533&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  [![jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwoo794533&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoo794533&layout=compact&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+  
   </div>
 <!--
 **jinwoo794533/jinwoo794533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

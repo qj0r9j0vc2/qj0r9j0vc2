@@ -16,7 +16,7 @@
      <img src="https://img.icons8.com/nolan/64/facebook.png" alt="Facebook" width="50" height="50" />
     </a>
   </p>
-  <h3 align="center">⚒ Technology 💎</h3>
+  <h3 align="center">⚒ Technology 💻</h3>
   <p align="center">
     <a href="https://spring.io/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="c" width="50" height="50"/>

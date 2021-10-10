@@ -57,7 +57,7 @@
   
   </div>
 <!--
-**jinwoo794533/jinwoo794533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **jinwoo794533/jinwoo794533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

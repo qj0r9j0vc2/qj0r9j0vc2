@@ -1,11 +1,11 @@
 # 백엔드 개발자가 되고 싶🐔
 ## [🍎 자기소개 노션  🌱](https://tangy-island-25d.notion.site/bc031366501e4bf2a11b0c250ead139b)
 
- <div align="right">
-  
+ <div align="center">
+ 
   [![jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwoo794533&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<div align="left">
+<div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoo794533&layout=compact&theme=omni&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   

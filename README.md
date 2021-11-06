@@ -15,9 +15,6 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%84-limegreen?style=flat-square&logo=Spring&logoColor=white&labelColor=limegreen)
 ## 🐱‍💻 Information
 <!-- Widgets -->
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=jhhong0509&hide=issues&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
  <div align="center">
  
   [![jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwoo794533&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)

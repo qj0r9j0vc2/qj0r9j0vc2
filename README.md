@@ -1,5 +1,22 @@
-# 백엔드 개발자가 되고 싶🐔
-## [🍎 자기소개 노션  🌱](https://tangy-island-25d.notion.site/bc031366501e4bf2a11b0c250ead139b)
+
+
+# [Hello](https://tangy-island-25d.notion.site/bc031366501e4bf2a11b0c250ead139b) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+### 🔧 My Skill
+<!--**- Language**  -->
+
+![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%84-saddlebrown?style=flat-square&logo=Java&logoColor=white&labelColor=saddlebrown)
+![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=flat-square&logo=MySQL&logoColor=white&labelColor=blue)
+![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%81-green?style=flat-square&logo=Python&logoColor=white&labelColor=green)
+
+### framework
+<!--**- Framework**  -->
+
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%84-limegreen?style=flat-square&logo=Spring&logoColor=white&labelColor=limegreen)
+## 🐱‍💻 Information
+<!-- Widgets -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=jhhong0509&hide=issues&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
  <div align="center">
  

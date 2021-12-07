@@ -1,6 +1,6 @@
 
 
-# [Introduce](https://tangy-island-25d.notion.site/bc031366501e4bf2a11b0c250ead139b) <img src="https://img.icons8.com/ios/50/000000/notion.png"/>
+## [Notion Page](https://tangy-island-25d.notion.site/bc031366501e4bf2a11b0c250ead139b) <img src="https://img.icons8.com/ios/50/000000/notion.png"/>
 
 ### 🛠 My Skill ⚙️
 <!--**- Language**  -->

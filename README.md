@@ -6,10 +6,10 @@
 
 ![](https://raw.githubusercontent.com/jinwoo794533/jinwoo794533/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qj0r9j0vc2"/>
 
-
-![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/59428479/216511926-07df2da7-c5b6-4dc7-bc95-a5fbeaa7abf5.png)
-![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/59428479/216511938-74c1f24a-3110-45aa-b825-a3effc3a2774.png)
-
+<div>
+  <img src = "https://user-images.githubusercontent.com/59428479/216511926-07df2da7-c5b6-4dc7-bc95-a5fbeaa7abf5.png" width="200">
+  <img src = "https://user-images.githubusercontent.com/59428479/216511938-74c1f24a-3110-45aa-b825-a3effc3a2774.png" width="200">
+</div>
 
 <!--
 **jinwoo794533/jinwoo794533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

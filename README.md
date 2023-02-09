@@ -4,7 +4,7 @@
 
 [![](https://raw.githubusercontent.com/jinwoo794533/jinwoo794533/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://raw.githubusercontent.com/jinwoo794533/jinwoo794533/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qj0r9j0vc2"/>
+![](https://raw.githubusercontent.com/jinwoo794533/jinwoo794533/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
 
 <div>
   <img src = "https://user-images.githubusercontent.com/59428479/216511926-07df2da7-c5b6-4dc7-bc95-a5fbeaa7abf5.png" width="200">

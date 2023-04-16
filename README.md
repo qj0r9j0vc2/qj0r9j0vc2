@@ -13,4 +13,4 @@
     <li>정보처리기능사 (2021.10.01) </li>
 </tr>
 <br>
-<a href="[https://bento.me/xlwdn98767]"> introduction </a>
+https://bento.me/xlwdn98767

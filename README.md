@@ -4,4 +4,18 @@
   </div>
 
 <br>
-https://bento.me/xlwdn98767
+
+I'm currently attending Daedeok SW Meister High School and will graduate soon. <br>
+I have experience creating and operating school service web server, running clubs as a major club leader, and winning prizes in skill competitions.
+
+
+
+I have an interest in the following areas, but not limited to:
+- Cloud Computing (AWS)
+- Databases (Oracle, MySQL)
+- Automation (Terraform, Ansible, ShellScript)
+
+<br>
+<br>
+You can find more information in the link below
+- https://bento.me/xlwdn98767

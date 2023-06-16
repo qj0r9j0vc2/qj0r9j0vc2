@@ -6,7 +6,7 @@
 <br>
 
 I'm currently attending Daedeok SW Meister High School and will graduate soon. <br>
-I have experience creating and operating school service web server, running clubs as a major club leader, and winning prizes in Daejeon skill competitions.
+I have experience creating and operating school web service server, running clubs as a major club leader, and winning prizes in Daejeon skill competitions.
 
 
 

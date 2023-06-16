@@ -11,7 +11,7 @@ I have experience in creating and operating web service servers for my school. A
 I have an interest in the following areas, but not limited to:
 - Cloud Computing (AWS)
 - Databases (Oracle, MySQL)
-- Automation (Terraform, Ansible, ShellScript)
+- Automation
 
 <br>
 <br>

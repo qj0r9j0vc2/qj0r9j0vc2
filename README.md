@@ -14,5 +14,5 @@ I have an interest in the following areas, but not limited to:
 
 <br>
 <br>
-You can find more information in the link below
+You can find more information about me in the link below
 - https://bento.me/xlwdn98767

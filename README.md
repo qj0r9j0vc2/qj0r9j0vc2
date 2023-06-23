@@ -11,6 +11,9 @@ I have experience in creating and operating web service servers for my school. A
 I have an interest in the following areas, but not limited to:
 - Cloud Computing (AWS)
 - Databases (Oracle, MySQL)
+- Web Application (SpringBoot)
+- Containerization&Orchestraion (Docker, k8s)
+- Linux&Network
 
 <br>
 <br>

@@ -9,7 +9,7 @@ I'm currently attending Daedeok SW Meister High School and will graduate soon. <
 I have experience in creating and operating web service servers for my school. Additionally, I was involved in [info-dsm](https://github.com/info-dsm) club as the president, and I won prizes in the Daejeon Regional Skills Competition
 
 I have an interest in the following areas, but not limited to:
-- Cloud Computing (AWS)
+- Cloud Computing&Automation (AWS, Terraform, Ansible)
 - Databases (Oracle, MySQL)
 - Web Application (SpringBoot)
 - Containerization&Orchestraion (Docker, k8s)

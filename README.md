@@ -8,6 +8,7 @@
 I'm currently attending Daedeok SW Meister High School and will graduate soon. <br>
 
 I have an interest in the following areas, but not limited to:
+- Blockchain(Cosmos)
 - Cloud Computing&Automation (AWS, Terraform, Ansible)
 - Databases (Oracle, MySQL)
 - Web Application (SpringBoot)
